@@ -1,70 +1,151 @@
 [
-  {
-    "category": "Мясные",
-    "recipes": [
-      {
-        "name": "",
-        "descr": "",
-        "domain": "pornhub.com",
-        "img_url": "",
-        "ingridients":"",
-        "calories": 500,
-        "bzu":{
-          "belki": ""
-        },
-        "reviews":[
-
+    {
+        "category": "Мясные",
+        "category_link": "",
+        "recipes": [
+            {
+                "name": "",
+                "descr": "",
+                "domain": "pornhub.com",
+                "img_url": "",
+                "ingridients": "",
+                "calories": 500,
+                "bzu": {
+                    "belki": ""
+                },
+                "reviews": []
+            },
+            {
+                "name": "",
+                "descr": "",
+                "domain": "pornhub.com",
+                "img_url": "",
+                "ingridients": "",
+                "calories": 500,
+                "bzu": {
+                    "belki": ""
+                },
+                "reviews": []
+            }
         ]
-      },
-      {
-        "name": "",
-        "descr": "",
-        "domain": "pornhub.com",
-        "img_url": "",
-        "ingridients":"",
-        "calories": 500,
-        "bzu":{
-          "belki": "",
-        },
-        "reviews":[
-
+    },
+    {
+        "category": "Сырные",
+        "recipes": [
+            {
+                "name": "",
+                "descr": "",
+                "domain": "pornhub.com",
+                "img_url": "",
+                "ingridients": "",
+                "calories": 500,
+                "bzu": {
+                    "belki": ""
+                },
+                "reviews": []
+            },
+            {
+                "name": "",
+                "descr": "",
+                "domain": "pornhub.com",
+                "img_url": "",
+                "ingridients": "",
+                "calories": 500,
+                "bzu": {
+                    "belki": ""
+                },
+                "reviews": []
+            }
         ]
-      }
-    ]
-
-  },
-   {
-    "category": "Сырные",
-    "recipes": [
-      {
-        "name": "",
-        "descr": "",
-        "domain": "pornhub.com",
-        "img_url": "",
-        "ingridients":"",
-        "calories": 500,
-        "bzu":{
-          "belki": ""
-        },
-        "reviews":[
-
-        ]
-      },
-      {
-        "name": "",
-        "descr": "",
-        "domain": "pornhub.com",
-        "img_url": "",
-        "ingridients":"",
-        "calories": 500,
-        "bzu":{
-          "belki": "",
-        },
-        "reviews":[
-
-        ]
-      }
-    ]
-
-  }
+    },
+    {
+        "category": "Рецепты первых блюд",
+        "category_link": "https://vpuzo.com/recepty-pervyh-blyud/",
+        "recipes": []
+    },
+    {
+        "category": "Рецепты вторых блюд",
+        "category_link": "https://vpuzo.com/recepty-vtoryh-blyud/",
+        "recipes": []
+    },
+    {
+        "category": "Безалкогольные напитки",
+        "category_link": "https://vpuzo.com/bezalkogolnye-napitki/",
+        "recipes": []
+    },
+    {
+        "category": "Алкогольные напитки",
+        "category_link": "https://vpuzo.com/alkogolnye-napitki/",
+        "recipes": []
+    },
+    {
+        "category": "Рецепты заготовок",
+        "category_link": "https://vpuzo.com/recepty-zagotovok/",
+        "recipes": []
+    },
+    {
+        "category": "Рецепты закусок",
+        "category_link": "https://vpuzo.com/recepty-zakusok/",
+        "recipes": []
+    },
+    {
+        "category": "Салаты",
+        "category_link": "https://vpuzo.com/salaty/",
+        "recipes": []
+    },
+    {
+        "category": "Рецепты изделий из теста",
+        "category_link": "https://vpuzo.com/recepty-izdeliy-iz-testa/",
+        "recipes": []
+    },
+    {
+        "category": "Рецепты соусов",
+        "category_link": "https://vpuzo.com/recepty-sousov/",
+        "recipes": []
+    },
+    {
+        "category": "Рецепты маринада",
+        "category_link": "https://vpuzo.com/recepty-marinada/",
+        "recipes": []
+    },
+    {
+        "category": "Рецепты сладостей",
+        "category_link": "https://vpuzo.com/recepty-sladostey/",
+        "recipes": []
+    },
+    {
+        "category": "Национальные Кухни",
+        "category_link": "https://vpuzo.com/nacionalnye-kuhni/",
+        "recipes": []
+    },
+    {
+        "category": "Блюда на праздники",
+        "category_link": "https://vpuzo.com/blyuda-na-prazdniki/",
+        "recipes": []
+    },
+    {
+        "category": "Диетические блюда",
+        "category_link": "https://vpuzo.com/dieticheskie-blyuda/",
+        "recipes": []
+    },
+    {
+        "category": "Тип приготовления",
+        "category_link": "https://vpuzo.com/tip-prigotovleniya/",
+        "recipes": []
+    },
+    {
+        "category": "По времени суток",
+        "category_link": "https://vpuzo.com/po-vremeni-sutok/",
+        "recipes": []
+    },
+    {
+        "category": "Сезонные блюда",
+        "category_link": "https://vpuzo.com/sezonnye-blyuda/",
+        "recipes": []
+    },
+    {
+        "category": "Специальное питание",
+        "category_link": "https://vpuzo.com/specialnoe-pitanie/",
+        "recipes": []
+    }
 ]
